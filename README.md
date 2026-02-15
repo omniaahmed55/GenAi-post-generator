@@ -51,6 +51,7 @@ The system is built using clean, modular design principles for scalability and m
 
 ## 🎥 Demo Video
 
-[Watch the Demo](post_generator.mp4)
+![Description of Image](post_generation.png)
+
 
 
