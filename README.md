@@ -49,5 +49,7 @@ The system is built using clean, modular design principles for scalability and m
 
 ---
 
-## 📂 Project Structure
+## 🎥 Demo Video
+
+[![Watch the Demo](https://github.com/omniaahmed55/GenAi-post-generator/blob/main/post_generation.png)](https://github.com/omniaahmed55/GenAi-post-generator/blob/main/post_%20generator.mp4)
 
